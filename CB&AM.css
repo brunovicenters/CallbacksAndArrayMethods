@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+h1 {
+    display: block;
+    text-align: center;
+    align-items: center;
+    color: silver;
+    padding-top: 23%;
+}
+p {
+    display: block;
+    text-align: center;
+    align-items: center;
+    color: silver;
+}
